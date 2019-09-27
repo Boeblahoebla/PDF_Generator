@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/client" libraries="{pdfGenerator/client/node_modules}" />
+    <file url="file://$PROJECT_DIR$/server" libraries="{pdfGenerator/server/node_modules}" />
+    <file url="PROJECT" libraries="{@types/bcrypt, @types/bcryptjs, @types/body-parser, @types/classnames, @types/express, @types/file-saver, @types/gravatar, @types/joi, @types/jsonwebtoken, @types/leaflet, @types/mongoose, @types/morgan, @types/node, @types/ol, @types/passport, @types/passport-jwt, @types/prop-types, @types/react, @types/react-redux, @types/validator, all, pdfGenerator/client/node_modules, pdfGenerator/server/node_modules}" />
+  </component>
+</project>
